@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reconhecimento de Emoções Faciais</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.11.0/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/face-api.js@0.22.2/dist/face-api.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            color: white;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            width: 100%;
+            max-width: 800px;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            width: 100%;
+            max-width: 800px;
+        }
+        
+        .video-container {
+            position: relative;
+            width: 100%;
+            max-width: 640px;
+            margin-bottom: 20px;
+        }
+        
+        #video {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            background: #000;
+        }
+        
+        #canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        button {
+            background: rgba(255,255,255,0.2);
+            border: 2px solid rgba(255,255,255,0.3);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 50px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        button:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .status {
+            background: rgba(0,0,0,0.3);
+            padding: 15px 25px;
+            border-radius: 10px;
+            text-align: center;
+            font-size: 1.1rem;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+            width: 100%;
+            max-width: 640px;
+        }
+        
+        .emotion-display {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-top: 10px;
+            min-height: 2rem;
+        }
+        
+        .stats-container {
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            border-radius: 10px;
+            width: 100%;
+            max-width: 640px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .stats-title {
+            text-align: center;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+        }
+        
+        .stat-item {
+            background: rgba(255,255,255,0.1);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            transition: transform 0.2s ease;
+        }
+        
+        .stat-item:hover {
+            transform: scale(1.05);
+        }
+        
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+        
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            padding: 40px;
+        }
+        
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(255,255,255,0.3);
+            border-top: 5px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .instructions {
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            max-width: 640px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .instructions h3 {
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .instructions ul {
+            padding-left: 20px;
+        }
+        
+        .instructions li {
+            margin-bottom: 8px;
+        }
+        
+        @media (max-width: 650px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .subtitle {
+                font-size: 1rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            button {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🧠 Reconhecimento de Emoções Faciais</h1>
+        <p class="subtitle">Detecte expressões faciais em tempo real usando inteligência artificial</p>
+    </header>
+    
+    <div class="container">
+        <div class="video-container">
+            <video id="video" autoplay muted playsinline></video>
+            <canvas id="canvas"></canvas>
+        </div>
+        
+        <div class="controls">
+            <button id="startBtn">Iniciar Detecção</button>
+            <button id="stopBtn" disabled>Parar Detecção</button>
+        </div>
+        
+        <div class="status">
+            <div id="statusText">Clique em "Iniciar Detecção" para começar</div>
+            <div class="emotion-display" id="emotionDisplay"></div>
+        </div>
+        
+        <div class="stats-container">
+            <h3 class="stats-title">📊 Estatísticas de Emoções</h3>
+            <div class="stats-grid" id="statsGrid">
+                <div class="stat-item">
+                    <div class="stat-value" id="happyCount">0</div>
+                    <div class="stat-label">😊 Feliz</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="sadCount">0</div>
+                    <div class="stat-label">😢 Triste</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="angryCount">0</div>
+                    <div class="stat-label">😠 Bravo</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="surprisedCount">0</div>
+                    <div class="stat-label">😮 Surpreso</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="neutralCount">0</div>
+                    <div class="stat-label">😐 Neutro</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="instructions">
+        <h3>ℹ️ Instruções</h3>
+        <ul>
+            <li>Certifique-se de permitir o acesso à câmera quando solicitado</li>
+            <li>Posicione seu rosto bem iluminado na frente da câmera</li>
+            <li>O sistema detectará sua expressão facial em tempo real</li>
+            <li>As estatísticas são atualizadas conforme as emoções são detectadas</li>
+        </ul>
+    </div>
+
+    <script>
+        // Elementos do DOM
+        const video = document.getElementById('video');
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        const startBtn = document.getElementById('startBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const statusText = document.getElementById('statusText');
+        const emotionDisplay = document.getElementById('emotionDisplay');
+        
+        // Elementos de estatísticas
+        const stats = {
+            happy: 0,
+            sad: 0,
+            angry: 0,
+            surprised: 0,
+            neutral: 0
+        };
+        
+        const statElements = {
+            happy: document.getElementById('happyCount'),
+            sad: document.getElementById('sadCount'),
+            angry: document.getElementById('angryCount'),
+            surprised: document.getElementById('surprisedCount'),
+            neutral: document.getElementById('neutralCount')
+        };
+        
+        // Estado da aplicação
+        let isDetecting = false;
+        let detectionInterval;
+        
+        // Mapeamento de emoções para emojis
+        const emotionEmojis = {
+            happy: '😊',
+            sad: '😢',
+            angry: '😠',
+            surprised: '😮',
+            neutral: '😐'
+        };
+        
+        // Inicialização dos modelos
+        async function loadModels() {
+            statusText.textContent = 'Carregando modelos...';
+            startBtn.disabled = true;
+            
+            try {
+                // Carregar modelos do face-api.js
+                await faceapi.nets.tinyFaceDetector.loadFromUri('https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights');
+                await faceapi.nets.faceLandmark68Net.loadFromUri('https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights');
+                await faceapi.nets.faceRecognitionNet.loadFromUri('https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights');
+                await faceapi.nets.faceExpressionNet.loadFromUri('https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights');
+                
+                statusText.textContent = 'Modelos carregados! Clique em "Iniciar Detecção"';
+                startBtn.disabled = false;
+            } catch (error) {
+                console.error('Erro ao carregar modelos:', error);
+                statusText.textContent = 'Erro ao carregar modelos. Verifique sua conexão.';
+            }
+        }
+        
+        // Acesso à câmera
+        async function startVideo() {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: { 
+                        width: { ideal: 640 },
+                        height: { ideal: 480 },
+                        facingMode: 'user'
+                    }, 
+                    audio: false 
+                });
+                video.srcObject = stream;
+                return true;
+            } catch (err) {
+                console.error('Erro ao acessar a câmera:', err);
+                statusText.textContent = 'Erro ao acessar a câmera. Verifique as permissões.';
+                return false;
+            }
+        }
+        
+        // Atualizar estatísticas
+        function updateStats(emotion) {
+            if (stats.hasOwnProperty(emotion)) {
+                stats[emotion]++;
+                statElements[emotion].textContent = stats[emotion];
+            }
+        }
+        
+        // Detectar emoções
+        async function detectEmotion() {
+            if (!isDetecting) return;
+            
+            try {
+                // Detectar rostos e expressões
+                const detections = await faceapi.detectAllFaces(
+                    video, 
+                    new faceapi.TinyFaceDetectorOptions()
+                ).withFaceLandmarks().withFaceExpressions();
+                
+                // Limpar canvas
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                
+                // Desenhar detecções e mostrar emoção
+                if (detections.length > 0) {
+                    // Redimensionar detecções para o tamanho do canvas
+                    const resizedDetections = faceapi.resizeResults(detections, {
+                        width: canvas.width,
+                        height: canvas.height
+                    });
+                    
+                    // Desenhar caixas ao redor dos rostos
+                    faceapi.draw.drawDetections(canvas, resizedDetections);
+                    faceapi.draw.drawFaceLandmarks(canvas, resizedDetections);
+                    
+                    // Obter a emoção mais provável
+                    const expressions = resizedDetections[0].expressions;
+                    let maxEmotion = 'neutral';
+                    let maxValue = 0;
+                    
+                    for (const [emotion, value] of Object.entries(expressions)) {
+                        if (value > maxValue) {
+                            maxValue = value;
+                            maxEmotion = emotion;
+                        }
+                    }
+                    
+                    // Mostrar emoção
+                    const emotionText = `${emotionEmojis[maxEmotion]} ${maxEmotion.charAt(0).toUpperCase() + maxEmotion.slice(1)}`;
+                    emotionDisplay.textContent = emotionText;
+                    
+                    // Atualizar estatísticas
+                    updateStats(maxEmotion);
+                } else {
+                    emotionDisplay.textContent = 'Nenhum rosto detectado';
+                }
+            } catch (error) {
+                console.error('Erro na detecção:', error);
+            }
+        }
+        
+        // Iniciar detecção
+        async function startDetection() {
+            statusText.textContent = 'Iniciando detecção...';
+            
+            const streamStarted = await startVideo();
+            if (!streamStarted) return;
+            
+            // Aguardar o vídeo carregar
+            video.addEventListener('loadeddata', () => {
+                // Ajustar tamanho do canvas
+                canvas.width = video.videoWidth;
+                canvas.height = video.videoHeight;
+                
+                isDetecting = true;
+                startBtn.disabled = true;
+                stopBtn.disabled = false;
+                statusText.textContent = 'Detectando emoções em tempo real...';
+                
+                // Iniciar detecção contínua
+                detectionInterval = setInterval(detectEmotion, 100);
+            }, { once: true });
+        }
+        
+        // Parar detecção
+        function stopDetection() {
+            isDetecting = false;
+            clearInterval(detectionInterval);
+            startBtn.disabled = false;
+            stopBtn.disabled = true;
+            statusText.textContent = 'Detecção parada';
+            emotionDisplay.textContent = '';
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+        }
+        
+        // Eventos dos botões
+        startBtn.addEventListener('click', startDetection);
+        stopBtn.addEventListener('click', stopDetection);
+        
+        // Inicializar quando a página carregar
+        window.addEventListener('DOMContentLoaded', () => {
+            // Verificar suporte a getUserMedia
+            if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+                loadModels();
+            } else {
+                statusText.textContent = 'Seu navegador não suporta acesso à câmera.';
+            }
+        });
+    </script>
+</body>
+</html>
