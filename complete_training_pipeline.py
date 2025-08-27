@@ -14,7 +14,7 @@ import logging
 from datetime import datetime
 
 from gesture_recognition_model import create_gesture_model
-from gesture_dataset import create_gesture_dataloaders
+from jester_dataset_loader import create_jester_dataloaders
 from fine_tuning_trainer import GestureFinetuner
 from evaluation_metrics import GestureEvaluator
 
@@ -129,14 +129,15 @@ def train_model(config: dict, logger: logging.Logger):
     
     # Create data loaders
     logger.info("Creating data loaders...")
-    train_loader, val_loader = create_gesture_dataloaders(
+    train_loader, val_loader, class_names = create_jester_dataloaders(
         data_path=config['data']['data_path'],
-        train_annotation=config['data']['train_annotation'],
-        val_annotation=config['data']['val_annotation'],
+        train_csv=config['data']['train_annotation'],
+        val_csv=config['data']['val_annotation'],
+        labels_csv=config['data']['labels_file'],
         batch_size=config['training']['batch_size'],
-        num_workers=config['data_preprocessing']['num_workers'],
         clip_len=config['data_preprocessing']['clip_len'],
-        crop_size=config['data_preprocessing']['crop_size']
+        crop_size=config['data_preprocessing']['crop_size'],
+        num_workers=config['data_preprocessing']['num_workers']
     )
     
     logger.info(f"Training samples: {len(train_loader.dataset)}")

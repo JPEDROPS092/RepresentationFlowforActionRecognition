@@ -1,0 +1,73 @@
+data:
+  class_names:
+  - Swiping Left
+  - Swiping Right
+  - Swiping Down
+  - Swiping Up
+  - Pushing Hand Away
+  - Pulling Hand In
+  - Sliding Two Fingers Left
+  - Sliding Two Fingers Right
+  - Sliding Two Fingers Down
+  - Sliding Two Fingers Up
+  - Pushing Two Fingers Away
+  - Pulling Two Fingers In
+  - Rolling Hand Forward
+  - Rolling Hand Backward
+  - Turning Hand Clockwise
+  - Turning Hand Counterclockwise
+  - Zooming In With Full Hand
+  - Zooming Out With Full Hand
+  - Zooming In With Two Fingers
+  - Zooming Out With Two Fingers
+  - Thumb Up
+  - Thumb Down
+  - Shaking Hand
+  - Stop Sign
+  - Drumming Fingers
+  - No gesture
+  - Doing other things
+  data_path: real_datasets/jester/videos
+  dataset_type: jester
+  labels_file: real_datasets/jester/jester-v1-labels.csv
+  train_annotation: real_datasets/jester/jester-v1-train.csv
+  val_annotation: real_datasets/jester/jester-v1-validation.csv
+data_preprocessing:
+  clip_len: 16
+  crop_size: 112
+  normalize: true
+  num_workers: 4
+  temporal_stride: 1
+evaluation:
+  benchmark_inference: true
+  metrics_to_compute:
+  - accuracy
+  - precision
+  - recall
+  - f1
+  - confusion_matrix
+  realtime_evaluation: false
+  save_predictions: true
+model:
+  dropout_rate: 0.4
+  flow_channels: 64
+  freeze_backbone: true
+  num_classes: 27
+  type: full
+  use_adaptive_flow: true
+paths:
+  checkpoint_dir: ./checkpoints_jester
+  evaluation_dir: ./evaluation_jester
+  log_dir: ./logs_jester
+training:
+  batch_size: 16
+  early_stopping_patience: 10
+  learning_rates:
+    attention_layers: 0.0005
+    backbone: 1.0e-05
+    classifier: 0.001
+    flow_layers: 0.001
+  num_epochs: 30
+  optimizer: adamw
+  save_frequency: 5
+  scheduler: cosine_annealing

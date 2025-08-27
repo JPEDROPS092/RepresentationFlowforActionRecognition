@@ -14,7 +14,7 @@ from datetime import datetime
 from tqdm import tqdm
 
 from gesture_recognition_model import GestureRecognitionModel, create_gesture_model
-from gesture_dataset import create_gesture_dataloaders
+from jester_dataset_loader import create_jester_dataloaders
 
 
 class GestureFinetuner:
@@ -424,10 +424,11 @@ def main():
     print(f"Using device: {config['device']}")
     
     # Create data loaders
-    train_loader, val_loader = create_gesture_dataloaders(
+    train_loader, val_loader, class_names = create_jester_dataloaders(
         data_path=config['data_path'],
-        train_annotation=config['train_annotation'],
-        val_annotation=config['val_annotation'],
+        train_csv=config['train_annotation'],
+        val_csv=config['val_annotation'],
+        labels_csv=config.get('labels_file', 'labels.csv'),
         batch_size=config['batch_size'],
         clip_len=config['clip_len'],
         crop_size=config['crop_size']

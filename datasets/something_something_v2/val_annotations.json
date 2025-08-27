@@ -1,0 +1,6002 @@
+[
+  {
+    "video_path": "videos/val_000000.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000001.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000002.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000003.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000004.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000005.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000006.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000007.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000008.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000009.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000010.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000011.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000012.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000013.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000014.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000015.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000016.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000017.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000018.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000019.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000020.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000021.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000022.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000023.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000024.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000025.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000026.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000027.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000028.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000029.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000030.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000031.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000032.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000033.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000034.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000035.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000036.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000037.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000038.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000039.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000040.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000041.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000042.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000043.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000044.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000045.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000046.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000047.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000048.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000049.webm",
+    "label": "Approaching something with your camera",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000200.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000201.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000202.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000203.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000204.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000205.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000206.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000207.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000208.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000209.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000210.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000211.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000212.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000213.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000214.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000215.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000216.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000217.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000218.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000219.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000220.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000221.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000222.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000223.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000224.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000225.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000226.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000227.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000228.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000229.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000230.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000231.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000232.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000233.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000234.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000235.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000236.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000237.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000238.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000239.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000240.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000241.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000242.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000243.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000244.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000245.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000246.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000247.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000248.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000249.webm",
+    "label": "Attaching something to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000400.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000401.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000402.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000403.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000404.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000405.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000406.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000407.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000408.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000409.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000410.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000411.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000412.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000413.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000414.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000415.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000416.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000417.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000418.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000419.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000420.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000421.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000422.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000423.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000424.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000425.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000426.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000427.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000428.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000429.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000430.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000431.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000432.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000433.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000434.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000435.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000436.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000437.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000438.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000439.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000440.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000441.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000442.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000443.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000444.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000445.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000446.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000447.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000448.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000449.webm",
+    "label": "Bending something so that it deforms",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000600.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000601.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000602.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000603.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000604.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000605.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000606.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000607.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000608.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000609.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000610.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000611.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000612.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000613.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000614.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000615.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000616.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000617.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000618.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000619.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000620.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000621.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000622.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000623.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000624.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000625.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000626.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000627.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000628.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000629.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000630.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000631.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000632.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000633.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000634.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000635.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000636.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000637.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000638.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000639.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000640.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000641.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000642.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000643.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000644.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000645.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000646.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000647.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000648.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000649.webm",
+    "label": "Bending something until it breaks",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000800.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000801.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000802.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000803.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000804.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000805.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000806.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000807.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000808.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000809.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000810.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000811.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000812.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000813.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000814.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000815.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000816.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000817.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000818.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000819.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000820.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000821.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000822.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000823.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000824.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000825.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000826.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000827.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000828.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000829.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000830.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000831.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000832.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000833.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000834.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000835.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000836.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000837.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000838.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000839.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000840.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000841.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000842.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000843.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000844.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000845.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000846.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000847.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000848.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_000849.webm",
+    "label": "Burying something in something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001000.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001001.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001002.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001003.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001004.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001005.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001006.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001007.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001008.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001009.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001010.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001011.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001012.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001013.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001014.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001015.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001016.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001017.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001018.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001019.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001020.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001021.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001022.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001023.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001024.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001025.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001026.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001027.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001028.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001029.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001030.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001031.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001032.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001033.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001034.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001035.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001036.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001037.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001038.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001039.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001040.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001041.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001042.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001043.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001044.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001045.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001046.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001047.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001048.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001049.webm",
+    "label": "Closing something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001200.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001201.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001202.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001203.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001204.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001205.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001206.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001207.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001208.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001209.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001210.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001211.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001212.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001213.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001214.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001215.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001216.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001217.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001218.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001219.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001220.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001221.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001222.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001223.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001224.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001225.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001226.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001227.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001228.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001229.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001230.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001231.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001232.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001233.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001234.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001235.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001236.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001237.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001238.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001239.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001240.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001241.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001242.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001243.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001244.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001245.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001246.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001247.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001248.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001249.webm",
+    "label": "Covering something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001400.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001401.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001402.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001403.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001404.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001405.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001406.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001407.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001408.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001409.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001410.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001411.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001412.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001413.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001414.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001415.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001416.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001417.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001418.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001419.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001420.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001421.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001422.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001423.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001424.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001425.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001426.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001427.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001428.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001429.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001430.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001431.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001432.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001433.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001434.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001435.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001436.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001437.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001438.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001439.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001440.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001441.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001442.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001443.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001444.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001445.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001446.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001447.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001448.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001449.webm",
+    "label": "Digging something out of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001600.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001601.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001602.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001603.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001604.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001605.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001606.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001607.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001608.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001609.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001610.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001611.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001612.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001613.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001614.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001615.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001616.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001617.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001618.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001619.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001620.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001621.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001622.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001623.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001624.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001625.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001626.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001627.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001628.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001629.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001630.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001631.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001632.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001633.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001634.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001635.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001636.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001637.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001638.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001639.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001640.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001641.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001642.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001643.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001644.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001645.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001646.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001647.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001648.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001649.webm",
+    "label": "Dropping something behind something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001800.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001801.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001802.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001803.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001804.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001805.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001806.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001807.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001808.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001809.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001810.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001811.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001812.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001813.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001814.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001815.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001816.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001817.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001818.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001819.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001820.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001821.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001822.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001823.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001824.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001825.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001826.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001827.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001828.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001829.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001830.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001831.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001832.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001833.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001834.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001835.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001836.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001837.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001838.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001839.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001840.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001841.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001842.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001843.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001844.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001845.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001846.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001847.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001848.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_001849.webm",
+    "label": "Dropping something in front of something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002000.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002001.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002002.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002003.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002004.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002005.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002006.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002007.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002008.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002009.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002010.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002011.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002012.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002013.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002014.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002015.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002016.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002017.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002018.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002019.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002020.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002021.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002022.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002023.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002024.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002025.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002026.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002027.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002028.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002029.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002030.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002031.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002032.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002033.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002034.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002035.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002036.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002037.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002038.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002039.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002040.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002041.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002042.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002043.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002044.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002045.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002046.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002047.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002048.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002049.webm",
+    "label": "Dropping something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002200.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002201.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002202.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002203.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002204.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002205.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002206.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002207.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002208.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002209.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002210.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002211.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002212.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002213.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002214.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002215.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002216.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002217.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002218.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002219.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002220.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002221.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002222.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002223.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002224.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002225.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002226.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002227.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002228.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002229.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002230.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002231.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002232.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002233.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002234.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002235.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002236.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002237.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002238.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002239.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002240.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002241.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002242.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002243.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002244.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002245.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002246.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002247.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002248.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002249.webm",
+    "label": "Dropping something next to something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002400.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002401.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002402.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002403.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002404.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002405.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002406.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002407.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002408.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002409.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002410.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002411.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002412.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002413.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002414.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002415.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002416.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002417.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002418.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002419.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002420.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002421.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002422.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002423.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002424.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002425.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002426.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002427.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002428.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002429.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002430.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002431.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002432.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002433.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002434.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002435.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002436.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002437.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002438.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002439.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002440.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002441.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002442.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002443.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002444.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002445.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002446.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002447.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002448.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002449.webm",
+    "label": "Dropping something onto something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002600.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002601.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002602.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002603.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002604.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002605.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002606.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002607.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002608.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002609.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002610.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002611.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002612.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002613.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002614.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002615.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002616.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002617.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002618.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002619.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002620.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002621.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002622.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002623.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002624.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002625.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002626.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002627.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002628.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002629.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002630.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002631.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002632.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002633.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002634.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002635.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002636.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002637.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002638.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002639.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002640.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002641.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002642.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002643.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002644.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002645.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002646.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002647.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002648.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002649.webm",
+    "label": "Failing to put something into something because something does not fit",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002800.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002801.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002802.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002803.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002804.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002805.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002806.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002807.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002808.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002809.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002810.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002811.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002812.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002813.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002814.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002815.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002816.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002817.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002818.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002819.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002820.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002821.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002822.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002823.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002824.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002825.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002826.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002827.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002828.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002829.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002830.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002831.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002832.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002833.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002834.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002835.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002836.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002837.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002838.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002839.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002840.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002841.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002842.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002843.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002844.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002845.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002846.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002847.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002848.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_002849.webm",
+    "label": "Folding something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003000.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003001.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003002.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003003.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003004.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003005.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003006.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003007.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003008.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003009.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003010.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003011.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003012.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003013.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003014.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003015.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003016.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003017.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003018.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003019.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003020.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003021.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003022.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003023.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003024.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003025.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003026.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003027.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003028.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003029.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003030.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003031.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003032.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003033.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003034.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003035.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003036.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003037.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003038.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003039.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003040.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003041.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003042.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003043.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003044.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003045.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003046.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003047.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003048.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003049.webm",
+    "label": "Hitting something with something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003200.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003201.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003202.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003203.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003204.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003205.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003206.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003207.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003208.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003209.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003210.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003211.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003212.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003213.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003214.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003215.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003216.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003217.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003218.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003219.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003220.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003221.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003222.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003223.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003224.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003225.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003226.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003227.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003228.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003229.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003230.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003231.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003232.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003233.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003234.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003235.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003236.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003237.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003238.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003239.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003240.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003241.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003242.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003243.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003244.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003245.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003246.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003247.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003248.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003249.webm",
+    "label": "Inserting something into something",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003400.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003401.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003402.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003403.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003404.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003405.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003406.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003407.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003408.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003409.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003410.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003411.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003412.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003413.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003414.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003415.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003416.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003417.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003418.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003419.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003420.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003421.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003422.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003423.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003424.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003425.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003426.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003427.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003428.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003429.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003430.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003431.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003432.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003433.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003434.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003435.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003436.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003437.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003438.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003439.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003440.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003441.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003442.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003443.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003444.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003445.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003446.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003447.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003448.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003449.webm",
+    "label": "Letting something roll along a flat surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003600.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003601.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003602.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003603.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003604.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003605.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003606.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003607.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003608.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003609.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003610.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003611.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003612.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003613.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003614.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003615.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003616.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003617.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003618.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003619.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003620.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003621.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003622.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003623.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003624.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003625.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003626.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003627.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003628.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003629.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003630.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003631.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003632.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003633.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003634.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003635.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003636.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003637.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003638.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003639.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003640.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003641.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003642.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003643.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003644.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003645.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003646.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003647.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003648.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003649.webm",
+    "label": "Letting something roll down a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003800.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003801.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003802.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003803.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003804.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003805.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003806.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003807.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003808.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003809.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003810.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003811.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003812.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003813.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003814.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003815.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003816.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003817.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003818.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003819.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003820.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003821.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003822.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003823.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003824.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003825.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003826.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003827.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003828.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003829.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003830.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003831.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003832.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003833.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003834.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003835.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003836.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003837.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003838.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003839.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003840.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003841.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003842.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003843.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003844.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003845.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003846.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003847.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003848.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "videos/val_003849.webm",
+    "label": "Letting something roll up a slanted surface",
+    "start_frame": 0,
+    "end_frame": -1
+  }
+]

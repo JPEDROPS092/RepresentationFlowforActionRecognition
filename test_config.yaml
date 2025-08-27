@@ -1,0 +1,45 @@
+data:
+  class_names: []
+  data_path: ./hf_cache/microsoft/kinetics-400
+  dataset_name: microsoft/kinetics-400
+  dataset_type: huggingface
+data_preprocessing:
+  clip_len: 8
+  crop_size: 64
+  max_train_samples: 1000
+  max_val_samples: 200
+  normalize: true
+  num_workers: 2
+  temporal_stride: 1
+evaluation:
+  benchmark_inference: true
+  metrics_to_compute:
+  - accuracy
+  - precision
+  - recall
+  - f1
+  realtime_evaluation: false
+  save_predictions: true
+model:
+  dropout_rate: 0.3
+  flow_channels: 32
+  freeze_backbone: true
+  num_classes: auto
+  type: lightweight
+  use_adaptive_flow: true
+paths:
+  checkpoint_dir: ./checkpoints_microsoft_kinetics-400
+  evaluation_dir: ./evaluation_microsoft_kinetics-400
+  log_dir: ./logs_microsoft_kinetics-400
+training:
+  batch_size: 4
+  early_stopping_patience: 5
+  learning_rates:
+    attention_layers: 0.0005
+    backbone: 1.0e-05
+    classifier: 0.001
+    flow_layers: 0.001
+  num_epochs: 10
+  optimizer: adamw
+  save_frequency: 2
+  scheduler: cosine_annealing

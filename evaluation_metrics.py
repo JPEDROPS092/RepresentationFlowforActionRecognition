@@ -14,7 +14,7 @@ from collections import defaultdict
 import time
 
 from gesture_recognition_model import create_gesture_model
-from gesture_dataset import GestureVideoDataset, GestureWebcamDataset
+from jester_dataset_loader import JesterDataset
 
 
 class GestureEvaluator:
@@ -320,8 +320,9 @@ class GestureEvaluator:
         save_path = Path(save_dir)
         save_path.mkdir(parents=True, exist_ok=True)
         
-        # Initialize webcam dataset
-        webcam_dataset = GestureWebcamDataset(clip_len=16, crop_size=112)
+        # TODO: Implement webcam dataset for real-time evaluation
+        print("Real-time evaluation não implementado ainda para datasets reais")
+        return {'error': 'Real-time evaluation not implemented for real datasets'}
         
         predictions = []
         confidences = []

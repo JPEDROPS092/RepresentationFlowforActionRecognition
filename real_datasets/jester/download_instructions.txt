@@ -1,0 +1,28 @@
+
+Para baixar o dataset Jester:
+
+1. Instale a API do Kaggle:
+   pip install kaggle
+
+2. Faça login no Kaggle e vá em Account -> API -> Create New API Token
+   Isso baixará kaggle.json
+
+3. Mova o arquivo para ~/.kaggle/kaggle.json:
+   mkdir -p ~/.kaggle
+   cp kaggle.json ~/.kaggle/
+   chmod 600 ~/.kaggle/kaggle.json
+
+4. Execute o download:
+   cd real_datasets/jester
+   kaggle datasets download -d toxicmender/20bn-jester
+   unzip 20bn-jester.zip
+
+5. O dataset terá esta estrutura:
+   jester/
+   ├── videos/
+   │   ├── 00001.mp4
+   │   ├── 00002.mp4
+   │   └── ...
+   ├── jester-v1-labels.csv
+   ├── jester-v1-train.csv
+   └── jester-v1-validation.csv

@@ -1,0 +1,2282 @@
+[
+  {
+    "video_path": "subject_00/grab/val_video_0000.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/grab/val_video_0001.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/grab/val_video_0002.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/grab/val_video_0003.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/grab/val_video_0004.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/grab/val_video_0005.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/grab/val_video_0006.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/grab/val_video_0007.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/grab/val_video_0008.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/grab/val_video_0009.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/grab/val_video_0010.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/grab/val_video_0011.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/grab/val_video_0012.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/grab/val_video_0013.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/grab/val_video_0014.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/grab/val_video_0015.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/grab/val_video_0016.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/grab/val_video_0017.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/grab/val_video_0018.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/grab/val_video_0019.mp4",
+    "label": "grab",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/tap/val_video_0000.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/tap/val_video_0001.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/tap/val_video_0002.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/tap/val_video_0003.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/tap/val_video_0004.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/tap/val_video_0005.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/tap/val_video_0006.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/tap/val_video_0007.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/tap/val_video_0008.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/tap/val_video_0009.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/tap/val_video_0010.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/tap/val_video_0011.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/tap/val_video_0012.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/tap/val_video_0013.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/tap/val_video_0014.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/tap/val_video_0015.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/tap/val_video_0016.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/tap/val_video_0017.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/tap/val_video_0018.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/tap/val_video_0019.mp4",
+    "label": "tap",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/expand/val_video_0000.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/expand/val_video_0001.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/expand/val_video_0002.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/expand/val_video_0003.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/expand/val_video_0004.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/expand/val_video_0005.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/expand/val_video_0006.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/expand/val_video_0007.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/expand/val_video_0008.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/expand/val_video_0009.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/expand/val_video_0010.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/expand/val_video_0011.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/expand/val_video_0012.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/expand/val_video_0013.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/expand/val_video_0014.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/expand/val_video_0015.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/expand/val_video_0016.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/expand/val_video_0017.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/expand/val_video_0018.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/expand/val_video_0019.mp4",
+    "label": "expand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pinch/val_video_0000.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pinch/val_video_0001.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pinch/val_video_0002.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pinch/val_video_0003.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pinch/val_video_0004.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pinch/val_video_0005.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pinch/val_video_0006.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pinch/val_video_0007.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pinch/val_video_0008.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pinch/val_video_0009.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pinch/val_video_0010.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pinch/val_video_0011.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pinch/val_video_0012.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pinch/val_video_0013.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pinch/val_video_0014.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pinch/val_video_0015.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pinch/val_video_0016.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pinch/val_video_0017.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pinch/val_video_0018.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pinch/val_video_0019.mp4",
+    "label": "pinch",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_cw/val_video_0000.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_cw/val_video_0001.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_cw/val_video_0002.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_cw/val_video_0003.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_cw/val_video_0004.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_cw/val_video_0005.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_cw/val_video_0006.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_cw/val_video_0007.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_cw/val_video_0008.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_cw/val_video_0009.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_cw/val_video_0010.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_cw/val_video_0011.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_cw/val_video_0012.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_cw/val_video_0013.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_cw/val_video_0014.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_cw/val_video_0015.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_cw/val_video_0016.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_cw/val_video_0017.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_cw/val_video_0018.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_cw/val_video_0019.mp4",
+    "label": "rotate_cw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_ccw/val_video_0000.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_ccw/val_video_0001.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_ccw/val_video_0002.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_ccw/val_video_0003.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_ccw/val_video_0004.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_ccw/val_video_0005.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_ccw/val_video_0006.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_ccw/val_video_0007.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_ccw/val_video_0008.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_ccw/val_video_0009.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_ccw/val_video_0010.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_ccw/val_video_0011.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_ccw/val_video_0012.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_ccw/val_video_0013.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_ccw/val_video_0014.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/rotate_ccw/val_video_0015.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/rotate_ccw/val_video_0016.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/rotate_ccw/val_video_0017.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/rotate_ccw/val_video_0018.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/rotate_ccw/val_video_0019.mp4",
+    "label": "rotate_ccw",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_right/val_video_0000.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_right/val_video_0001.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_right/val_video_0002.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_right/val_video_0003.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_right/val_video_0004.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_right/val_video_0005.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_right/val_video_0006.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_right/val_video_0007.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_right/val_video_0008.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_right/val_video_0009.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_right/val_video_0010.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_right/val_video_0011.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_right/val_video_0012.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_right/val_video_0013.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_right/val_video_0014.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_right/val_video_0015.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_right/val_video_0016.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_right/val_video_0017.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_right/val_video_0018.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_right/val_video_0019.mp4",
+    "label": "swipe_right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_left/val_video_0000.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_left/val_video_0001.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_left/val_video_0002.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_left/val_video_0003.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_left/val_video_0004.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_left/val_video_0005.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_left/val_video_0006.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_left/val_video_0007.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_left/val_video_0008.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_left/val_video_0009.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_left/val_video_0010.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_left/val_video_0011.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_left/val_video_0012.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_left/val_video_0013.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_left/val_video_0014.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_left/val_video_0015.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_left/val_video_0016.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_left/val_video_0017.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_left/val_video_0018.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_left/val_video_0019.mp4",
+    "label": "swipe_left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_up/val_video_0000.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_up/val_video_0001.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_up/val_video_0002.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_up/val_video_0003.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_up/val_video_0004.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_up/val_video_0005.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_up/val_video_0006.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_up/val_video_0007.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_up/val_video_0008.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_up/val_video_0009.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_up/val_video_0010.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_up/val_video_0011.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_up/val_video_0012.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_up/val_video_0013.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_up/val_video_0014.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_up/val_video_0015.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_up/val_video_0016.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_up/val_video_0017.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_up/val_video_0018.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_up/val_video_0019.mp4",
+    "label": "swipe_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_down/val_video_0000.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_down/val_video_0001.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_down/val_video_0002.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_down/val_video_0003.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_down/val_video_0004.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_down/val_video_0005.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_down/val_video_0006.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_down/val_video_0007.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_down/val_video_0008.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_down/val_video_0009.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_down/val_video_0010.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_down/val_video_0011.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_down/val_video_0012.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_down/val_video_0013.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_down/val_video_0014.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/swipe_down/val_video_0015.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/swipe_down/val_video_0016.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/swipe_down/val_video_0017.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/swipe_down/val_video_0018.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/swipe_down/val_video_0019.mp4",
+    "label": "swipe_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/push/val_video_0000.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/push/val_video_0001.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/push/val_video_0002.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/push/val_video_0003.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/push/val_video_0004.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/push/val_video_0005.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/push/val_video_0006.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/push/val_video_0007.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/push/val_video_0008.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/push/val_video_0009.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/push/val_video_0010.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/push/val_video_0011.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/push/val_video_0012.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/push/val_video_0013.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/push/val_video_0014.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/push/val_video_0015.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/push/val_video_0016.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/push/val_video_0017.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/push/val_video_0018.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/push/val_video_0019.mp4",
+    "label": "push",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pull/val_video_0000.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pull/val_video_0001.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pull/val_video_0002.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pull/val_video_0003.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pull/val_video_0004.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pull/val_video_0005.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pull/val_video_0006.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pull/val_video_0007.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pull/val_video_0008.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pull/val_video_0009.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pull/val_video_0010.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pull/val_video_0011.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pull/val_video_0012.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pull/val_video_0013.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pull/val_video_0014.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/pull/val_video_0015.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/pull/val_video_0016.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/pull/val_video_0017.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/pull/val_video_0018.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/pull/val_video_0019.mp4",
+    "label": "pull",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/shake/val_video_0000.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/shake/val_video_0001.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/shake/val_video_0002.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/shake/val_video_0003.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/shake/val_video_0004.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/shake/val_video_0005.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/shake/val_video_0006.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/shake/val_video_0007.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/shake/val_video_0008.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/shake/val_video_0009.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/shake/val_video_0010.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/shake/val_video_0011.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/shake/val_video_0012.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/shake/val_video_0013.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/shake/val_video_0014.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/shake/val_video_0015.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/shake/val_video_0016.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/shake/val_video_0017.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/shake/val_video_0018.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/shake/val_video_0019.mp4",
+    "label": "shake",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_up/val_video_0000.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_up/val_video_0001.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_up/val_video_0002.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_up/val_video_0003.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_up/val_video_0004.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_up/val_video_0005.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_up/val_video_0006.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_up/val_video_0007.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_up/val_video_0008.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_up/val_video_0009.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_up/val_video_0010.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_up/val_video_0011.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_up/val_video_0012.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_up/val_video_0013.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_up/val_video_0014.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_up/val_video_0015.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_up/val_video_0016.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_up/val_video_0017.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_up/val_video_0018.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_up/val_video_0019.mp4",
+    "label": "thumb_up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_down/val_video_0000.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_down/val_video_0001.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_down/val_video_0002.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_down/val_video_0003.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_down/val_video_0004.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_down/val_video_0005.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_down/val_video_0006.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_down/val_video_0007.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_down/val_video_0008.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_down/val_video_0009.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_down/val_video_0010.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_down/val_video_0011.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_down/val_video_0012.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_down/val_video_0013.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_down/val_video_0014.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/thumb_down/val_video_0015.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/thumb_down/val_video_0016.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/thumb_down/val_video_0017.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/thumb_down/val_video_0018.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/thumb_down/val_video_0019.mp4",
+    "label": "thumb_down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/index_point/val_video_0000.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/index_point/val_video_0001.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/index_point/val_video_0002.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/index_point/val_video_0003.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/index_point/val_video_0004.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/index_point/val_video_0005.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/index_point/val_video_0006.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/index_point/val_video_0007.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/index_point/val_video_0008.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/index_point/val_video_0009.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/index_point/val_video_0010.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/index_point/val_video_0011.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/index_point/val_video_0012.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/index_point/val_video_0013.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/index_point/val_video_0014.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/index_point/val_video_0015.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/index_point/val_video_0016.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/index_point/val_video_0017.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/index_point/val_video_0018.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/index_point/val_video_0019.mp4",
+    "label": "index_point",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/ok/val_video_0000.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/ok/val_video_0001.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/ok/val_video_0002.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/ok/val_video_0003.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/ok/val_video_0004.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/ok/val_video_0005.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/ok/val_video_0006.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/ok/val_video_0007.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/ok/val_video_0008.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/ok/val_video_0009.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/ok/val_video_0010.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/ok/val_video_0011.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/ok/val_video_0012.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/ok/val_video_0013.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/ok/val_video_0014.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/ok/val_video_0015.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/ok/val_video_0016.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/ok/val_video_0017.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/ok/val_video_0018.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/ok/val_video_0019.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/c_shape/val_video_0000.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/c_shape/val_video_0001.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/c_shape/val_video_0002.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/c_shape/val_video_0003.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/c_shape/val_video_0004.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/c_shape/val_video_0005.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/c_shape/val_video_0006.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/c_shape/val_video_0007.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/c_shape/val_video_0008.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/c_shape/val_video_0009.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/c_shape/val_video_0010.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/c_shape/val_video_0011.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/c_shape/val_video_0012.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/c_shape/val_video_0013.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/c_shape/val_video_0014.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/c_shape/val_video_0015.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/c_shape/val_video_0016.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/c_shape/val_video_0017.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/c_shape/val_video_0018.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/c_shape/val_video_0019.mp4",
+    "label": "c_shape",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/peace/val_video_0000.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/peace/val_video_0001.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/peace/val_video_0002.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/peace/val_video_0003.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/peace/val_video_0004.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/peace/val_video_0005.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/peace/val_video_0006.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/peace/val_video_0007.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/peace/val_video_0008.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/peace/val_video_0009.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/peace/val_video_0010.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/peace/val_video_0011.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/peace/val_video_0012.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/peace/val_video_0013.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/peace/val_video_0014.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_00/peace/val_video_0015.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_01/peace/val_video_0016.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_02/peace/val_video_0017.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_03/peace/val_video_0018.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "subject_04/peace/val_video_0019.mp4",
+    "label": "peace",
+    "start_frame": 0,
+    "end_frame": -1
+  }
+]

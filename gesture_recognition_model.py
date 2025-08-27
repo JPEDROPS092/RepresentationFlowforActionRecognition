@@ -1,7 +1,24 @@
 import torch
 import torch.nn as nn
-import torchvision.models as models
-from torchvision.models.video.r2plus1d import R2Plus1D_18_Weights
+import torch.nn.functional as F
+
+try:
+    import torchvision.models as models
+    # Try different import patterns for torchvision video models
+    try:
+        from torchvision.models.video import r2plus1d_18
+        try:
+            from torchvision.models.video.r2plus1d import R2Plus1D_18_Weights
+            TORCHVISION_VERSION = "new"  # Has weights enum
+        except ImportError:
+            TORCHVISION_VERSION = "old"  # Uses pretrained=True
+    except ImportError:
+        from torchvision.models import r2plus1d_18
+        TORCHVISION_VERSION = "old"
+except ImportError:
+    print("Warning: torchvision not available. Using custom backbone.")
+    TORCHVISION_VERSION = None
+
 from rep_flow_layer import RepFlowLayer, AdaptiveRepFlowLayer
 
 
@@ -20,16 +37,34 @@ class GestureRecognitionModel(nn.Module):
         super(GestureRecognitionModel, self).__init__()
         
         # Load pre-trained R(2+1)D model as foundation
-        weights = R2Plus1D_18_Weights.KINETICS400_V1
-        self.backbone = models.video.r2plus1d_18(weights=weights)
+        if TORCHVISION_VERSION == "new":
+            weights = R2Plus1D_18_Weights.KINETICS400_V1
+            self.backbone = r2plus1d_18(weights=weights)
+        elif TORCHVISION_VERSION == "old":
+            self.backbone = r2plus1d_18(pretrained=True)
+        else:
+            # Fallback to basic CNN if video models not available
+            print("Using fallback backbone - video models not available")
+            self.backbone = self._create_fallback_backbone()
         
         # Extract components of the backbone
-        self.stem = self.backbone.stem
-        self.layer1 = self.backbone.layer1
-        self.layer2 = self.backbone.layer2
-        self.layer3 = self.backbone.layer3
-        self.layer4 = self.backbone.layer4
-        self.avgpool = self.backbone.avgpool
+        if TORCHVISION_VERSION in ["new", "old"]:
+            # Standard R(2+1)D model structure
+            self.stem = self.backbone.stem
+            self.layer1 = self.backbone.layer1
+            self.layer2 = self.backbone.layer2
+            self.layer3 = self.backbone.layer3
+            self.layer4 = self.backbone.layer4
+            self.avgpool = self.backbone.avgpool
+        else:
+            # Fallback backbone structure
+            self.stem = self.backbone
+            # Create simple layers for fallback
+            self.layer1 = nn.Conv3d(64, 64, kernel_size=3, padding=1)
+            self.layer2 = nn.Conv3d(64, 128, kernel_size=3, padding=1)
+            self.layer3 = nn.Conv3d(128, 256, kernel_size=3, padding=1)
+            self.layer4 = nn.Conv3d(256, 512, kernel_size=3, padding=1)
+            self.avgpool = nn.AdaptiveAvgPool3d((1, 1, 1))
         
         # Representation Flow layers at different levels
         if use_adaptive_flow:
@@ -70,18 +105,34 @@ class GestureRecognitionModel(nn.Module):
         if freeze_backbone:
             self._freeze_backbone()
     
+    def _create_fallback_backbone(self):
+        """Create fallback backbone when video models not available."""
+        return nn.Sequential(
+            # Stem
+            nn.Conv3d(3, 64, kernel_size=(3, 7, 7), stride=(1, 2, 2), padding=(1, 3, 3)),
+            nn.BatchNorm3d(64),
+            nn.ReLU(inplace=True),
+            nn.MaxPool3d(kernel_size=(3, 3, 3), stride=(1, 2, 2), padding=(1, 1, 1))
+        )
+    
     def _freeze_backbone(self):
         """Freeze the pre-trained backbone parameters."""
-        for param in self.stem.parameters():
-            param.requires_grad = False
-        for param in self.layer1.parameters():
-            param.requires_grad = False
-        for param in self.layer2.parameters():
-            param.requires_grad = False
-        for param in self.layer3.parameters():
-            param.requires_grad = False
-        for param in self.layer4.parameters():
-            param.requires_grad = False
+        if TORCHVISION_VERSION in ["new", "old"]:
+            # Freeze pre-trained backbone
+            for param in self.stem.parameters():
+                param.requires_grad = False
+            for param in self.layer1.parameters():
+                param.requires_grad = False
+            for param in self.layer2.parameters():
+                param.requires_grad = False
+            for param in self.layer3.parameters():
+                param.requires_grad = False
+            for param in self.layer4.parameters():
+                param.requires_grad = False
+        else:
+            # For fallback, only freeze stem (no pre-training benefit)
+            for param in self.stem.parameters():
+                param.requires_grad = False
     
     def forward(self, x):
         """

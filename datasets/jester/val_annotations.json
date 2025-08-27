@@ -1,0 +1,3242 @@
+[
+  {
+    "video_path": "swiping_left/val_video_0000.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0001.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0002.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0003.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0004.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0005.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0006.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0007.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0008.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0009.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0010.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0011.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0012.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0013.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0014.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0015.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0016.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0017.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0018.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_left/val_video_0019.mp4",
+    "label": "Swiping Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0000.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0001.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0002.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0003.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0004.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0005.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0006.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0007.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0008.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0009.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0010.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0011.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0012.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0013.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0014.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0015.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0016.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0017.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0018.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_right/val_video_0019.mp4",
+    "label": "Swiping Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0000.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0001.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0002.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0003.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0004.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0005.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0006.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0007.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0008.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0009.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0010.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0011.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0012.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0013.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0014.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0015.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0016.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0017.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0018.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_down/val_video_0019.mp4",
+    "label": "Swiping Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0000.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0001.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0002.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0003.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0004.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0005.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0006.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0007.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0008.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0009.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0010.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0011.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0012.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0013.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0014.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0015.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0016.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0017.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0018.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "swiping_up/val_video_0019.mp4",
+    "label": "Swiping Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0000.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0001.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0002.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0003.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0004.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0005.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0006.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0007.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0008.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0009.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0010.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0011.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0012.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0013.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0014.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0015.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0016.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0017.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0018.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_hand_away/val_video_0019.mp4",
+    "label": "Pushing Hand Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0000.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0001.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0002.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0003.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0004.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0005.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0006.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0007.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0008.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0009.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0010.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0011.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0012.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0013.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0014.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0015.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0016.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0017.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0018.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_hand_in/val_video_0019.mp4",
+    "label": "Pulling Hand In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0000.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0001.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0002.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0003.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0004.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0005.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0006.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0007.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0008.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0009.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0010.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0011.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0012.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0013.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0014.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0015.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0016.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0017.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0018.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_left/val_video_0019.mp4",
+    "label": "Sliding Two Fingers Left",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0000.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0001.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0002.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0003.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0004.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0005.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0006.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0007.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0008.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0009.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0010.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0011.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0012.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0013.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0014.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0015.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0016.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0017.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0018.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_right/val_video_0019.mp4",
+    "label": "Sliding Two Fingers Right",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0000.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0001.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0002.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0003.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0004.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0005.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0006.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0007.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0008.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0009.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0010.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0011.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0012.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0013.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0014.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0015.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0016.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0017.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0018.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_down/val_video_0019.mp4",
+    "label": "Sliding Two Fingers Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0000.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0001.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0002.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0003.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0004.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0005.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0006.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0007.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0008.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0009.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0010.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0011.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0012.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0013.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0014.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0015.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0016.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0017.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0018.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sliding_two_fingers_up/val_video_0019.mp4",
+    "label": "Sliding Two Fingers Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0000.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0001.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0002.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0003.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0004.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0005.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0006.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0007.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0008.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0009.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0010.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0011.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0012.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0013.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0014.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0015.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0016.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0017.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0018.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pushing_two_fingers_away/val_video_0019.mp4",
+    "label": "Pushing Two Fingers Away",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0000.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0001.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0002.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0003.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0004.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0005.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0006.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0007.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0008.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0009.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0010.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0011.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0012.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0013.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0014.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0015.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0016.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0017.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0018.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "pulling_two_fingers_in/val_video_0019.mp4",
+    "label": "Pulling Two Fingers In",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0000.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0001.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0002.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0003.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0004.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0005.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0006.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0007.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0008.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0009.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0010.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0011.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0012.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0013.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0014.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0015.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0016.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0017.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0018.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_forward/val_video_0019.mp4",
+    "label": "Rolling Hand Forward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0000.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0001.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0002.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0003.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0004.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0005.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0006.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0007.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0008.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0009.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0010.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0011.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0012.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0013.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0014.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0015.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0016.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0017.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0018.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "rolling_hand_backward/val_video_0019.mp4",
+    "label": "Rolling Hand Backward",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0000.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0001.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0002.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0003.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0004.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0005.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0006.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0007.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0008.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0009.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0010.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0011.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0012.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0013.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0014.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0015.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0016.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0017.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0018.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_clockwise/val_video_0019.mp4",
+    "label": "Turning Hand Clockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0000.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0001.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0002.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0003.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0004.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0005.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0006.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0007.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0008.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0009.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0010.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0011.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0012.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0013.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0014.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0015.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0016.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0017.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0018.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "turning_hand_counterclockwise/val_video_0019.mp4",
+    "label": "Turning Hand Counterclockwise",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0000.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0001.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0002.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0003.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0004.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0005.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0006.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0007.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0008.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0009.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0010.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0011.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0012.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0013.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0014.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0015.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0016.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0017.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0018.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_full_hand/val_video_0019.mp4",
+    "label": "Zooming In With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0000.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0001.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0002.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0003.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0004.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0005.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0006.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0007.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0008.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0009.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0010.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0011.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0012.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0013.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0014.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0015.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0016.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0017.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0018.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_full_hand/val_video_0019.mp4",
+    "label": "Zooming Out With Full Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0000.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0001.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0002.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0003.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0004.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0005.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0006.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0007.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0008.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0009.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0010.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0011.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0012.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0013.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0014.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0015.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0016.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0017.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0018.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_in_with_two_fingers/val_video_0019.mp4",
+    "label": "Zooming In With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0000.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0001.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0002.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0003.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0004.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0005.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0006.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0007.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0008.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0009.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0010.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0011.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0012.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0013.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0014.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0015.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0016.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0017.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0018.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "zooming_out_with_two_fingers/val_video_0019.mp4",
+    "label": "Zooming Out With Two Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0000.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0001.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0002.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0003.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0004.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0005.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0006.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0007.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0008.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0009.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0010.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0011.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0012.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0013.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0014.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0015.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0016.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0017.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0018.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_up/val_video_0019.mp4",
+    "label": "Thumb Up",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0000.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0001.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0002.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0003.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0004.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0005.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0006.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0007.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0008.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0009.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0010.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0011.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0012.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0013.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0014.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0015.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0016.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0017.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0018.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "thumb_down/val_video_0019.mp4",
+    "label": "Thumb Down",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0000.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0001.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0002.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0003.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0004.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0005.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0006.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0007.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0008.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0009.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0010.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0011.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0012.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0013.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0014.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0015.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0016.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0017.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0018.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "shaking_hand/val_video_0019.mp4",
+    "label": "Shaking Hand",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0000.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0001.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0002.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0003.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0004.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0005.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0006.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0007.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0008.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0009.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0010.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0011.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0012.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0013.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0014.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0015.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0016.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0017.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0018.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "stop_sign/val_video_0019.mp4",
+    "label": "Stop Sign",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0000.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0001.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0002.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0003.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0004.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0005.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0006.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0007.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0008.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0009.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0010.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0011.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0012.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0013.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0014.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0015.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0016.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0017.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0018.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "drumming_fingers/val_video_0019.mp4",
+    "label": "Drumming Fingers",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0000.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0001.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0002.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0003.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0004.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0005.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0006.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0007.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0008.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0009.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0010.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0011.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0012.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0013.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0014.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0015.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0016.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0017.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0018.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "no_gesture/val_video_0019.mp4",
+    "label": "No gesture",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0000.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0001.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0002.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0003.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0004.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0005.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0006.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0007.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0008.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0009.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0010.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0011.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0012.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0013.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0014.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0015.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0016.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0017.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0018.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "doing_other_things/val_video_0019.mp4",
+    "label": "Doing other things",
+    "start_frame": 0,
+    "end_frame": -1
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "video_path": "vattene/val_video_0000.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0001.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0002.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0003.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0004.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0005.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0006.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0007.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0008.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0009.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0010.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0011.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0012.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0013.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vattene/val_video_0014.mp4",
+    "label": "vattene",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0000.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0001.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0002.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0003.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0004.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0005.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0006.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0007.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0008.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0009.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0010.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0011.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0012.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0013.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "vieniqui/val_video_0014.mp4",
+    "label": "vieniqui",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0000.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0001.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0002.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0003.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0004.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0005.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0006.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0007.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0008.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0009.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0010.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0011.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0012.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0013.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "perfetto/val_video_0014.mp4",
+    "label": "perfetto",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0000.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0001.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0002.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0003.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0004.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0005.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0006.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0007.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0008.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0009.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0010.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0011.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0012.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0013.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "furbo/val_video_0014.mp4",
+    "label": "furbo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0000.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0001.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0002.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0003.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0004.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0005.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0006.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0007.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0008.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0009.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0010.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0011.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0012.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0013.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cheduepalle/val_video_0014.mp4",
+    "label": "cheduepalle",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0000.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0001.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0002.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0003.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0004.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0005.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0006.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0007.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0008.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0009.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0010.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0011.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0012.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0013.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "chevuoi/val_video_0014.mp4",
+    "label": "chevuoi",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0000.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0001.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0002.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0003.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0004.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0005.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0006.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0007.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0008.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0009.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0010.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0011.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0012.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0013.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "daccordo/val_video_0014.mp4",
+    "label": "daccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0000.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0001.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0002.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0003.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0004.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0005.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0006.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0007.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0008.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0009.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0010.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0011.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0012.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0013.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "seipazzo/val_video_0014.mp4",
+    "label": "seipazzo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0000.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0001.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0002.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0003.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0004.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0005.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0006.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0007.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0008.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0009.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0010.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0011.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0012.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0013.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "combinato/val_video_0014.mp4",
+    "label": "combinato",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0000.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0001.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0002.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0003.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0004.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0005.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0006.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0007.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0008.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0009.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0010.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0011.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0012.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0013.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "freganiente/val_video_0014.mp4",
+    "label": "freganiente",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0000.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0001.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0002.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0003.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0004.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0005.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0006.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0007.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0008.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0009.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0010.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0011.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0012.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0013.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "ok/val_video_0014.mp4",
+    "label": "ok",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0000.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0001.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0002.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0003.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0004.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0005.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0006.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0007.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0008.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0009.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0010.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0011.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0012.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0013.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "cosatifarei/val_video_0014.mp4",
+    "label": "cosatifarei",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0000.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0001.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0002.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0003.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0004.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0005.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0006.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0007.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0008.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0009.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0010.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0011.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0012.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0013.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "basta/val_video_0014.mp4",
+    "label": "basta",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0000.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0001.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0002.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0003.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0004.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0005.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0006.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0007.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0008.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0009.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0010.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0011.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0012.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0013.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "prendere/val_video_0014.mp4",
+    "label": "prendere",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0000.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0001.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0002.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0003.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0004.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0005.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0006.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0007.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0008.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0009.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0010.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0011.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0012.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0013.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "noncenepiu/val_video_0014.mp4",
+    "label": "noncenepiu",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0000.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0001.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0002.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0003.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0004.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0005.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0006.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0007.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0008.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0009.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0010.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0011.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0012.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0013.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "fame/val_video_0014.mp4",
+    "label": "fame",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0000.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0001.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0002.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0003.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0004.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0005.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0006.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0007.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0008.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0009.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0010.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0011.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0012.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0013.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "tantotempo/val_video_0014.mp4",
+    "label": "tantotempo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0000.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0001.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0002.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0003.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0004.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0005.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0006.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0007.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0008.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0009.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0010.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0011.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0012.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0013.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "buonissimo/val_video_0014.mp4",
+    "label": "buonissimo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0000.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0001.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0002.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0003.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0004.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0005.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0006.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0007.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0008.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0009.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0010.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0011.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0012.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0013.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "messidaccordo/val_video_0014.mp4",
+    "label": "messidaccordo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0000.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0001.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0002.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0003.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0004.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0005.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0006.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0007.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0008.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0009.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0010.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0011.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0012.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0013.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  },
+  {
+    "video_path": "sonostufo/val_video_0014.mp4",
+    "label": "sonostufo",
+    "start_frame": 0,
+    "end_frame": -1
+  }
+]
